@@ -8,7 +8,7 @@ Built with Python & Django.
 
 ## Poster 
 
-The project's overall structure and the creation process are shown on this poster.
+The project's general overview, structure and the developement process are shown on this poster.
 
 
 [DSP Poster](https://github.com/rossdwill/DSP/files/9351774/Ross-Williams-Poster.pdf)
